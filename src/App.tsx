@@ -1,8 +1,9 @@
-import ListGroup from "./components/ListGroup"
+import BlogList from "./components/ListCard"
 
 function App (){
+
 return <div>
-  <ListGroup/>
+  <BlogList/>
 </div>
 }
 export default App
