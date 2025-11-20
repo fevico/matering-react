@@ -11,7 +11,7 @@
         "avatar": "/images/author/ai-author.jpg",
         "twitter": "@chinedu_okeke"
       },
-      "publishedDate": "2025-11-10",
+      "publishedDate": "2025-11-10", 
       "readTime": "8 min read",
       "category": "Entrepreneurship",
       "tags": ["SaaS", "Indie Hacking", "No-code", "Nigeria"],
